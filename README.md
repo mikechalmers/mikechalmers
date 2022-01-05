@@ -1,5 +1,6 @@
 ## Mike Chalmers
-### 🎒 Visual Artist and Web Developer 🍟
+### Visual Artist and Web Developer 👽
+[Website](https://mikechalmers.co.uk)
 
 <!--
 **mikechalmers/mikechalmers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
