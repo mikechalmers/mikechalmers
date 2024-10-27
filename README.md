@@ -1,5 +1,7 @@
-## Mike Chalmers
+## Michael Chalmers
 ### Visual Artist and Web Developer
+
+This is my personal / side-project account and most repos are private.
 
 🛒 [Work GitHub](https://github.com/bespokely-digital)
 
